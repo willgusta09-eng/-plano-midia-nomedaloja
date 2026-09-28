@@ -21,7 +21,7 @@ Use `list_actions` / `describe_action` se algum parâmetro não estiver claro. P
 
 Uma linha por anúncio/variação com estoque 0: Marketplace | Loja | ID do anúncio | Título | Variação | SKU | Status | Logística (ML) | Vendas últimos 30 dias (se disponível).
 
-Ordene por vendas dos últimos 30 dias (os que vendiam mais primeiro — são os que mais custam ficar sem estoque). Marque como **NOVO** o que não estava zerado no email do dia anterior (procure no Gmail o último email `Estoque zerado` para comparar, se existir).
+Ordene por vendas dos últimos 30 dias (os que vendiam mais primeiro — são os que mais custam ficar sem estoque). Marque como **NOVO** o que não estava zerado no email do dia anterior: tente buscar no Gmail o último email `Estoque zerado` para comparar. O conector Gmail pode não ter permissão de leitura — se a busca falhar, **não trave**: omita a marcação NOVO e diga no email "comparação com ontem indisponível".
 
 ## 3. Enviar por email
 
