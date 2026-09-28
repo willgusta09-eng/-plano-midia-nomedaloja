@@ -24,6 +24,7 @@ Use `list_actions` / `describe_action` para confirmar nome e parâmetros de uma 
 |---|---|---|
 | Devoluções e reclamações | Terça e sexta, 9h | `/devolucoes` (`.claude/skills/devolucoes/SKILL.md`) |
 | Métricas de Ads e GMV Max | Todo dia, 12h | `/ads-diario` (`.claude/skills/ads-diario/SKILL.md`) |
+| Produtos com estoque 0 | Todo dia, 8h | `/estoque-zerado` (`.claude/skills/estoque-zerado/SKILL.md`) |
 
 ## Entrega dos relatórios
 
