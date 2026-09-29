@@ -29,7 +29,7 @@ Use `list_actions` / `describe_action` para confirmar nome e parâmetros de uma 
 ## Entrega dos relatórios
 
 - **Email**: enviar para `willgusta09@gmail.com` pelo conector Gmail.
-- **Google Drive**: salvar na pasta `Relatórios Claude` (criar se não existir), subpastas `Devoluções` e `Ads`. Nome do arquivo: `AAAA-MM-DD - <tarefa>`.
+- **Google Drive**: salvar na pasta `Relatórios Claude` (criar se não existir), subpastas `Devoluções`, `Ads` e `Estoque`. Nome do arquivo: `AAAA-MM-DD - <tarefa>`.
 
 ## Regras gerais
 
