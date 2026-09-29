@@ -24,13 +24,12 @@ Use `list_actions` / `describe_action` para confirmar nome e parâmetros de uma 
 |---|---|---|
 | Devoluções e reclamações | Terça e sexta, 9h | `/devolucoes` (`.claude/skills/devolucoes/SKILL.md`) |
 | Métricas de Ads e GMV Max | Todo dia, 12h | `/ads-diario` (`.claude/skills/ads-diario/SKILL.md`) |
-| Conciliação Shopee (mês até a data) | Quinta, 9h | `/conciliacao-shopee` (`.claude/skills/conciliacao-shopee/SKILL.md`) |
 | Produtos com estoque 0 | Todo dia, 8h | `/estoque-zerado` (`.claude/skills/estoque-zerado/SKILL.md`) |
 
 ## Entrega dos relatórios
 
 - **Email**: enviar para `willgusta09@gmail.com` pelo conector Gmail.
-- **Google Drive**: salvar na pasta `Relatórios Claude` (criar se não existir), subpastas `Devoluções`, `Ads` e `Financeiro`. Nome do arquivo: `AAAA-MM-DD - <tarefa>`.
+- **Google Drive**: salvar na pasta `Relatórios Claude` (criar se não existir), subpastas `Devoluções` e `Ads`. Nome do arquivo: `AAAA-MM-DD - <tarefa>`.
 
 ## Regras gerais
 
