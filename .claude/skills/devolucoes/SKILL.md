@@ -12,7 +12,7 @@ Contas e parâmetros: ver tabela em `CLAUDE.md`. Percorra **todas** as contas.
 Janela padrão: últimos 7 dias + tudo que ainda estiver aberto.
 
 - **Mercado Livre**: `ml_claims_search` (status aberto) → para cada uma `ml_claim_get`, `ml_claim_returns` e `ml_claim_messages`. Ver também `ml_messages_unread` para pós-venda ligado a devolução.
-- **Shopee** (4 lojas): `shopee_get_return_list` → `shopee_get_return_detail` e `shopee_get_return_solutions` para cada uma. Ver cancelamentos solicitados pelo comprador nos pedidos (`shopee_search_orders`).
+- **Shopee** (5 lojas): `shopee_get_return_list` → `shopee_get_return_detail` e `shopee_get_return_solutions` para cada uma. Ver cancelamentos solicitados pelo comprador nos pedidos (`shopee_search_orders`).
 - **TikTok Shop** (2 lojas): `tiktok_search_returns` e `tiktok_search_cancellations` → `tiktok_return_records` quando precisar do histórico.
 
 Para cada caso colete: loja, pedido, produto/SKU, valor, motivo alegado, evidências (fotos/mensagens), prazo para responder, status do envio de volta.

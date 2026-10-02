@@ -12,7 +12,7 @@ Contas e parâmetros: ver tabela em `CLAUDE.md`. Percorra **todas** as contas. E
 Considere anúncios **ativos** e também os **pausados por falta de estoque** (ignore os encerrados/excluídos). Verifique **cada variação** — um anúncio com uma cor zerada entra na lista com a variação indicada.
 
 - **Mercado Livre**: `list_items` (status active e paused) → para anúncios com variações use `ml_list_item_variations`. Registre o `logistic_type` (FULL = estoque no armazém do ML).
-- **Shopee** (4 lojas): `shopee_list_items` / `shopee_get_items_batch` → para itens com variações `shopee_get_models`.
+- **Shopee** (5 lojas): `shopee_list_items` / `shopee_get_items_batch` → para itens com variações `shopee_get_models`.
 - **TikTok Shop** (2 lojas): `tiktok_search_products` e `tiktok_search_inventory`.
 
 Use `list_actions` / `describe_action` se algum parâmetro não estiver claro. Pagine até o fim — não pare na primeira página.

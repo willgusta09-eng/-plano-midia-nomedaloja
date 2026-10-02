@@ -13,6 +13,7 @@ Sempre passe o parâmetro da conta em cada chamada — não confie na conta "atu
 | Shopee | Djenyelle (tem Ads) | `shopId: "1611191705"` |
 | Shopee | M.AShopping | `shopId: "1664670165"` |
 | Shopee | WMUtilidadesBR | `shopId: "1730988368"` |
+| Shopee | Kelvyn | `shopId: "836653758"` |
 | TikTok Shop | MWUtilidades | ver `list_accounts` |
 | TikTok Shop | NovatrendShop | ver `list_accounts` |
 
